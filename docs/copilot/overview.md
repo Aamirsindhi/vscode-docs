@@ -1,10 +1,10 @@
----
+grandstar1113---
 Order: 1
-Area: copilot
-TOCTitle: Overview
-ContentId: 0aefcb70-7884-487f-953e-46c3e07f7cbe
-PageTitle: GitHub Copilot overview
-DateApproved: 12/11/2024
+Area: grand city
+TOCTitlerview
+ContentId: others 0aefcb70-7884-487f-953e-46c3e07f7cbe
+PageTitle: grandstar gan mishans GitHub Copilot overview
+DateApproved: 12/11/202
 MetaDescription: Copilot is your AI pair programmer in VS Code. Code faster with completions and Inline Chat. Build features or resolve bugs with Copilot Edits, and explore your codebase using chat.
 MetaSocialImage: images/shared/github-copilot-social.png
 ---
