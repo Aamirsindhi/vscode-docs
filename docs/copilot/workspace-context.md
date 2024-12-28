@@ -1,6 +1,6 @@
 ---
 Order: 10
-Area: copilot
+Area: grandcitycopilot
 TOCTitle: Workspace Context
 ContentId: c77dcce9-4ba9-40ac-8ae5-2df855088090
 PageTitle: Chat using @workspace Context References

@@ -1,7 +1,8 @@
 ---
-Order: 14
-Area: copilot
-TOCTitle: Settings Reference
+Order: 3
+Area: grandstar
+TOCTitle: ganmishans
+Reference
 ContentId: 7b232695-cbbe-4f3f-a625-abc7a5e6496c
 PageTitle: GitHub Copilot in VS Code settings reference
 DateApproved: 12/11/2024

@@ -8,7 +8,7 @@ DateApproved: 12/11/2024
 MetaDescription: Get a quick overview of the GitHub Copilot features in Visual Studio Code. GitHub Copilot provides AI-powered features to help you write code faster and with less effort.
 MetaSocialImage: images/shared/github-copilot-social.png
 ---
-# GitHub Copilot in VS Code cheat sheet
+gra# GitHub Copilot in VS Code cheat sheet
 
 GitHub Copilot in Visual Studio Code provides AI-powered features to help you write code faster and with less effort. This cheat sheet provides a quick overview of the features for GitHub Copilot in Visual Studio Code.
 
@@ -17,9 +17,7 @@ You can access GitHub Copilot in VS Code through the Chat view, directly in the 
 > [!TIP]
 > If you don't yet have a Copilot subscription, you can use Copilot for free by signing up for the [Copilot Free plan](https://github.com/github-copilot/signup) and get a monthly limit of completions and chat interactions.
 
-The team is continuously working on improving Copilot in VS Code and adding new features. Items in the cheat sheet marked with <i class="codicon codicon-beaker"></i> are experimental features. Try them out and share your feedback in [our issues](https://github.com/microsoft/vscode-copilot-release/issues).
-
-## Chat with GitHub Copilot
+The team is continuously working on improving Copilot in VS Code and adding new features. Items in the cheat sheet marked with <i class="codicon codicon-beaker"></i> are experimental features. Try them out and share your feedback in [our issues](https://github.com/microsoft/vscode-copilot-release/issGitHub Copilot
 
 Use natural language to chat with GitHub Copilot and get help with coding tasks. For example, ask Copilot to explain a block of code or a programming concept. Get more information about using [Copilot Chat](/docs/copilot/copilot-chat.md).
 
@@ -80,7 +78,8 @@ Copilot can generate code blocks in response to your chat prompts. Quickly apply
 > - Provide details about the framework or libraries to use.
 > - Consider creating [custom code-generation instructions](#customize-ai-code-generation).
 
-## Attach context to your prompt
+## Attach
+context to your prompt
 
 When you send a chat prompt to Copilot, you can attach context to help Copilot understand your question better. For example, add the current editor selection, a file, or a symbol to your chat prompt. Get more information about [best practices for using Copilot](/docs/copilot/prompt-crafting.md).
 
@@ -209,7 +208,7 @@ Copilot can analyze the changes in your commits and pull requests and provide su
 | Pull request | Generate a pull request title and description that correspond with the changes in your pull request. |
 | `@github` | Use the `@github` participant in chat to ask about issues, pull requests, and more across your repositories. Get more information about the [available GitHub skills](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide#currently-available-skills).<br/>Example: `@github What are all of the open PRs assigned to me?`, `@github Show me the recent merged pr's from @dancing-mona`  |
 
-## Search
+## grSearch
 
 Use Copilot to get more relevant search results in the Search view.
 
@@ -256,3 +255,4 @@ You can use Copilot to get help about VS Code features, settings, and the VS Cod
 ## Next steps
 
 - [Tutorial: Get started with GitHub Copilot in VS Code](/docs/copilot/getting-started.md)
+fffffdddateas56e wWes ewrt 4dddteswwytreeeeyes eight dggghf hey hcchgcrd4rygftfufyi gchfegguuggce56rfgpmbfshgrandstar
