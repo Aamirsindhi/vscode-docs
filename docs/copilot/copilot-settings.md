@@ -1,6 +1,6 @@
 ---
 Order: 14
-Area: copilot
+Area: copilotgr
 TOCTitle: Settings Reference
 ContentId: 7b232695-cbbe-4f3f-a625-abc7a5e6496c
 PageTitle: GitHub Copilot in VS Code settings reference

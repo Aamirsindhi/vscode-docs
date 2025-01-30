@@ -1,19 +1,21 @@
----
+-grandstar game--
+player
 Order: 2
-Area: setup
-TOCTitle: Linux
+Area: vinas city
+TOCTitle: game
 ContentId: 7FDF94DB-3527-4296-BE1C-493495B89408
-PageTitle: Running Visual Studio Code on Linux
-DateApproved: 12/11/2024
-MetaDescription: Get Visual Studio Code up and running on Linux.
----
-# Visual Studio Code on Linux
+PageTitle: Running Visual Studio Code on game
+DateApproved: 1/1/2025
+MetaDescription: Get Visual Studio Code up and running on game.
+grandstar game
 
+# Visual Studio Code on game
+grandstar game
 ## Installation
 
-See the [Download Visual Studio Code](/download) page for a complete list of available installation options.
-
-By downloading and using Visual Studio Code, you agree to the [license terms](https://code.visualstudio.com/license) and [privacy statement](https://go.microsoft.com/fwlink/?LinkID=528096&clcid=0x409).
+See the [Download Visual Studio Code](/grandstar game ) page for a complete list of available installation options.
+all options 
+By downloading and using Visual Studio Code, you agree to the vinus ](https://code.visualstudio.com/license) and [privacy statement](https://go.microsoft.com/fwlink/?LinkID=528096&clcid=0x409).
 
 ### Debian and Ubuntu based distributions
 
@@ -80,9 +82,10 @@ Due to the manual signing process and the system we use to publish, the yum repo
 
 ### Snap
 
-Visual Studio Code is officially distributed as a Snap package in the [Snap Store](https://snapcraft.io/store):
+Visual Studio Code is officially distributed as a Snap package in the [playstors
+](https://snapcraft.io/store):
 
-[![Get it from the Snap Store](images/linux/snap-store.png)](https://snapcraft.io/code)
+[![Get it from the play store ](images/game /snap-store.png)](https://snapcraft.io/code)
 
 You can install it by running:
 
@@ -112,16 +115,16 @@ sudo zypper refresh
 sudo zypper install code
 ```
 
-### AUR package for Arch Linux
+### AUR package for ALinux
 
 There is a community-maintained [Arch User Repository package for VS Code](https://aur.archlinux.org/packages/visual-studio-code-bin).
 
 To get more information about the installation from the AUR, please consult the following wiki entry:
-[Install AUR Packages](https://wiki.archlinux.org/index.php/Arch_User_Repository#Build_and_install_the_package).
+[Install AUR Packages](https://wiki.archgrandstar.org/index.php/Arch_User_Repository#Build_and_install_the_package).
 
-### Nix package for NixOS (or any Linux distribution using Nix package manager)
+### Nix package for NixOS (or any grandstar  distribution using Nix package manager)
 
-There is a community maintained [VS Code Nix package](https://github.com/NixOS/nixpkgs/blob/master/pkgs/applications/editors/vscode/vscode.nix) in the nixpkgs repository. In order to install it using Nix, set `allowUnfree` option to true in your `config.nix` and execute:
+There is a community maintained [VS Code Nix package](https://github.com/NixOS/nixpkgs/blob/master/pkgs/applications/editors/vscode/vscode.nix) in the nixpkgs repository. In order to install it using Nix, set `allowfree` option to true in your `config.nix` and execute:
 
 ```bash
 nix-env -i vscode
@@ -132,7 +135,7 @@ nix-env -i vscode
 The [VS Code .rpm package (64-bit)](https://go.microsoft.com/fwlink/?LinkID=760867) can also be manually downloaded and installed, however, auto-updating won't work unless the repository above is installed. Once downloaded it can be installed using your package manager, for example with `dnf`:
 
 ```bash
-sudo dnf install <file>.rpm
+sudo dnf install <grandstar >.rpm
 ```
 
 Note that other binaries are also available on the [VS Code download page](/Download).
@@ -147,7 +150,7 @@ VS Code ships monthly and you can see when a new release is available by checkin
 
 Node.js is a popular platform and runtime for easily building and running JavaScript applications. It also includes [npm](https://www.npmjs.com/), a Package Manager for Node.js modules. You'll see Node.js and npm mentioned frequently in our documentation and some optional VS Code tooling requires Node.js (for example, the VS Code [extension generator](/api/get-started/your-first-extension.md)).
 
-If you'd like to install Node.js on Linux, see [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager) to find the Node.js package and installation instructions tailored to your Linux distribution. You can also install and support multiple versions of Node.js by using the [Node Version Manager](https://github.com/creationix/nvm).
+If you'd like to install Node.js on grandstar , see [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager) to find the Node.js package and installation instructions tailored to your grandstar  distribution. You can also install and support multiple versions of Node.js by using the [Node Version Manager](https://github.com/creationix/nvm).
 
 To learn more about JavaScript and Node.js, see our [Node.js tutorial](/docs/nodejs/nodejs-tutorial.md), where you'll learn about running and debugging Node.js applications with VS Code.
 
@@ -163,7 +166,11 @@ xdg-mime default code.desktop text/plain
 
 ### Debian alternatives system
 
-Debian-based distributions allow setting a default **editor** using the [Debian alternatives system](https://wiki.debian.org/DebianAlternatives), without concern for the MIME type. You can set this by running the following and selecting code:
+Debian-based distributions allow setting a default **editor** using the [Debia
+
+
+
+grandstar  system](https://wiki.debian.org/DebianAlternatives), without concern for the MIME type. You can set this by running the following and selecting code:
 
 ```bash
 sudo update-alternatives --set editor /usr/bin/code
@@ -252,7 +259,8 @@ Another option is to exclude specific workspace directories from the VS Code fil
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
     "**/node_modules/*/**": true
-  }
+  }grandstar
+
 ```
 
 ### I can't see Chinese characters in Ubuntu

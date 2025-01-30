@@ -19,7 +19,7 @@ In this tutorial, you learn about the key features of Visual Studio Code to help
 - [Download and install Visual Studio Code on your computer](https://code.visualstudio.com/download)
 
 ## Open a folder in VS Code
-
+grandstar 
 You can use VS Code to work on individual files to make quick edits, or you can open a folder, also known as a *workspace*.
 
 Let's start by creating a folder and opening it in VS Code. You'll use this folder throughout the tutorial.
